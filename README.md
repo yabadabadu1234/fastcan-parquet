@@ -1,8 +1,5 @@
 # fastcan-parquet
 
-
-# fastcan (can2parquet)
-
 **Ultra-fast, zero-copy, memory-efficient CAN/CAN-FD binary log to Apache Parquet converter.**
 
 Engineered for automotive, robotics, and industrial telemetry pipelines where multi-gigabyte logs must be ingested into modern analytics (Pandas, Polars, DuckDB, PyTorch) in seconds—without running out of RAM.
